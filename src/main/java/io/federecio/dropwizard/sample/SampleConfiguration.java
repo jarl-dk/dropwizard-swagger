@@ -16,7 +16,7 @@
 package io.federecio.dropwizard.sample;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import io.dropwizard.Configuration;
+import io.dropwizard.core.Configuration;
 import io.federecio.dropwizard.swagger.SwaggerBundleConfiguration;
 import javax.validation.Valid;
 import javax.validation.constraints.NotNull;

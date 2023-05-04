@@ -38,8 +38,8 @@ import io.swagger.v3.oas.models.info.Info;
 import io.swagger.v3.oas.models.info.License;
 import java.util.Arrays;
 import java.util.stream.Collectors;
-import javax.annotation.Nullable;
 import javax.validation.constraints.NotEmpty;
+import org.checkerframework.checker.nullness.qual.Nullable;
 
 /**
  * For the meaning of all these properties please refer to Swagger documentation or {@link
